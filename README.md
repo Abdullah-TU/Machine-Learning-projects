@@ -12,5 +12,6 @@
 <li>Naïve Bayes</li>
 <li>Random Forest</li>
 <li>Nearest Neighbour</li>
+<li>PCA-based Anomaly detection</li>
 <li>And many more....</li>  
 </ul>
