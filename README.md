@@ -8,5 +8,7 @@
 <li>Logistic Regression</li>
 <li>Neural Network Regression</li> 
 <li>Support Vector Machine</li>
+<li>Decision Tree</li>
+<li>Naïve Bayes</li>
 
 </ul>
