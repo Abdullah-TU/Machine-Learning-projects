@@ -6,5 +6,6 @@
 <ul>
 <li>Linear Regression</li>
 <li>Logistic Regression</li>
+<li>Neural Network Regression</li> 
 
 </ul>
