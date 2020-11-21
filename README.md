@@ -14,7 +14,5 @@
 <li>Random Forest</li>
 <li>Nearest Neighbour</li>
  <li>K-Means Clustering</li>  
-<li>PCA</li>   
-<li>PCA-based Anomaly detection</li>
-<li>And many more....</li> 
+
 </ul>
