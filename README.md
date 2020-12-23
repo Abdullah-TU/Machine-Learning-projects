@@ -9,5 +9,8 @@
 <li>Neural Network Regression</li> 
 <li>Support Vector Machine</li>
 <li>Decision Tree</li>
+<li>Naïve Bayes</li>
+<li>Neural Network</li>  
+<li>Random Forest</li>
 
 </ul>
