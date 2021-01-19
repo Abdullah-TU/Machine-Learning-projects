@@ -14,4 +14,4 @@
 <li>Random Forest</li>
 <li>Nearest Neighbour</li>
 <li>K-Means Clustering</li>  
-
+<li>PCA</li>   
