@@ -16,5 +16,6 @@
 <li>K-Means Clustering</li>  
 <li>PCA</li>   
 <li>PCA-based Anomaly detection</li>
-
+<li>And many more....</li><li>PCA-based Anomaly detection</li>
+<li>And many more....</li>
 </ul>
