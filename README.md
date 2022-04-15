@@ -11,10 +11,6 @@
 <li>Decision Tree</li>
 <li>Naïve Bayes</li>
 <li>Neural Network</li>  
-<li>Random Forest</li>
-<li>Nearest Neighbour</li>
-<li>K-Means Clustering</li>  
-<li>PCA</li>   
-<li>PCA-based Anomaly detection</li>
+
 
 </ul>
