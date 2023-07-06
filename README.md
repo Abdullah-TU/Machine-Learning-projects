@@ -25,3 +25,18 @@
 <li>Neural Network (Deep Learning) Classifier</li>
 </ul>
 
+Regression Problems:
+
+<ul>
+<li>Linear Regression</li>
+<li>Neural Network Regression</li>
+<li>Ridge Regression</li>
+<li>Lasso Regression</li>
+<li>Elastic Net Regression</li>
+<li>Decision Tree Regression</li>
+<li>Random Forest Regression</li>
+<li>Support Vector Machines (SVM) Regression</li>
+<li>Gradient Boosting Regression</li>
+<li>XGBoost Regression</li>
+<li>Neural Network (Deep Learning) Regression</li>
+</ul>
