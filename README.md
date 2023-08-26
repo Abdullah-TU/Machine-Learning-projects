@@ -25,7 +25,7 @@
 <li>Neural Network (Deep Learning) Classifier</li>
 </ul>
 
-# Regression Problems:
+## Regression Problems:
 
 <ul>
 <li>Linear Regression</li>
