@@ -5,6 +5,7 @@
 ## Classification Problems:
 
 <ul>
+<li>Logistic Regression</li>
 
 <li>K-Means Clustering</li>
 <li>Principal Component Analysis (PCA)</li>
