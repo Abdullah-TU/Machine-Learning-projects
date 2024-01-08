@@ -33,6 +33,9 @@
 <li>Ridge Regression</li>
 <li>Lasso Regression</li>
 <li>Elastic Net Regression</li>
+<li>Decision Tree Regression</li>
+<li>Random Forest Regression</li>
+<li>Support Vector Machines (SVM) Regression</li>
 
 </ul>
 
