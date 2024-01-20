@@ -18,6 +18,8 @@
 <li>AdaBoost</li>
 <li>XGBoost</li>
 <li>Random Forest Classifier</li>
+<li>K-Nearest Neighbors (KNN) Classifier</li>
+<li>Gaussian Naive Bayes</li>
 
 </ul>
 
