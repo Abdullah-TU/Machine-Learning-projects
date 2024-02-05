@@ -15,6 +15,8 @@
 <li>K-Means Clustering</li>
 <li>Principal Component Analysis (PCA)</li>
 <li>Gradient Boosting</li>
+<li>AdaBoost</li>
+<li>XGBoost</li>
 
 </ul>
 
