@@ -16,6 +16,8 @@
 <li>Principal Component Analysis (PCA)</li>
 <li>Gradient Boosting</li>
 <li>AdaBoost</li>
+<li>XGBoost</li>
+<li>Random Forest Classifier</li>
 
 </ul>
 
