@@ -16,7 +16,13 @@
 <li>Principal Component Analysis (PCA)</li>
 <li>Gradient Boosting</li>
 <li>AdaBoost</li>
-
+<li>XGBoost</li>
+<li>Random Forest Classifier</li>
+<li>K-Nearest Neighbors (KNN) Classifier</li>
+<li>Gaussian Naive Bayes</li>
+<li>Decision Tree Classifier</li>
+<li>Support Vector Machines (SVM) Classifier</li>
+<li>Neural Network (Deep Learning) Classifier</li>
 </ul>
 
 ## Regression Problems:
