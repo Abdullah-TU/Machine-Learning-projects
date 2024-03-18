@@ -38,6 +38,8 @@
 <li>Linear Regression</li>
 <li>Neural Network Regression</li>
 <li>Ridge Regression</li>
+<li>Lasso Regression</li>
+<li>Elastic Net Regression</li>
 
 </ul>
 
