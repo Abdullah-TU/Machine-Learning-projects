@@ -35,6 +35,8 @@
 ## Regression Problems:
 
 <ul>
+<li>Linear Regression</li>
+<li>Neural Network Regression</li>
 
 </ul>
 
