@@ -44,7 +44,8 @@
 <li>Random Forest Regression</li>
 <li>Support Vector Machines (SVM) Regression</li>
 <li>Gradient Boosting Regression</li>
-
+<li>XGBoost Regression</li>
+<li>Neural Network (Deep Learning) Regression</li>
 </ul>
 
 ## Hyperparameter tuning
