@@ -24,6 +24,8 @@
 <li>Support Vector Machines (SVM) Classifier</li>
 <li>Neural Network (Deep Learning) Classifier</li>
 <li>XGBoost</li>
+<li>Random Forest Classifier</li>
+<li>K-Nearest Neighbors (KNN) Classifier</li>
 
 </ul>
 
