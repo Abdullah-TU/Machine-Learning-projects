@@ -6,6 +6,7 @@
 
 <ul>
 
+<li>Random Forest</li>
 <li>Nearest Neighbour</li>
 <li>K-Means Clustering</li>
 <li>Principal Component Analysis (PCA)</li>
