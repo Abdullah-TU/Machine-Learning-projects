@@ -6,6 +6,8 @@
 
 <ul>
 <li>Logistic Regression</li>
+<li>Naïve Bayes</li>    
+<li>Support Vector Machine</li>
 
 <li>Random Forest</li>
 <li>Nearest Neighbour</li>
