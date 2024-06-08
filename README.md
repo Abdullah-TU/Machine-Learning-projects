@@ -5,6 +5,7 @@
 ## Classification Problems:
 
 <ul>
+<li>Logistic Regression</li>
 
 <li>Random Forest</li>
 <li>Nearest Neighbour</li>
