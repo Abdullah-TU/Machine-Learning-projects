@@ -9,7 +9,7 @@
 <li>Naïve Bayes</li>    
 <li>Support Vector Machine</li>
 <li>Decision Tree</li>
-
+<li>Neural Network</li>
 <li>Random Forest</li>
 <li>Nearest Neighbour</li>
 <li>K-Means Clustering</li>
