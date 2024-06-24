@@ -6,6 +6,7 @@
 
 <ul>
 <li>Logistic Regression</li>
+<li>Naïve Bayes</li>    
 
 <li>Random Forest</li>
 <li>Nearest Neighbour</li>
