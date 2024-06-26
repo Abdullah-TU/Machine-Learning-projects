@@ -8,6 +8,7 @@
 <li>Logistic Regression</li>
 <li>Naïve Bayes</li>    
 <li>Support Vector Machine</li>
+<li>Decision Tree</li>
 
 <li>Nearest Neighbour</li>
 <li>K-Means Clustering</li>
