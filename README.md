@@ -5,6 +5,7 @@
 ## Classification Problems:
 
 <ul>
+<li>Logistic Regression</li>
 
 <li>Nearest Neighbour</li>
 <li>K-Means Clustering</li>
