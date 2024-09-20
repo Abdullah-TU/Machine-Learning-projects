@@ -41,7 +41,7 @@
 <li>Lasso Regression</li>
 <li>Elastic Net Regression</li>
 <li>Decision Tree Regression</li>
-
+<li>Random Forest Regression</li>
 <li>Support Vector Machines (SVM) Regression</li>
 <li>Gradient Boosting Regression</li>
 <li>XGBoost Regression</li>
