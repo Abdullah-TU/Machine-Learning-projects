@@ -40,6 +40,7 @@
 <li>Ridge Regression</li>
 <li>Lasso Regression</li>
 <li>Elastic Net Regression</li>
+<li>Decision Tree Regression</li>
 
 <li>Support Vector Machines (SVM) Regression</li>
 <li>Gradient Boosting Regression</li>
