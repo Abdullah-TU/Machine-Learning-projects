@@ -8,7 +8,10 @@
 <li>Logistic Regression</li>
 <li>Naïve Bayes</li>    
 <li>Support Vector Machine</li>
-
+<li>Decision Tree</li>
+<li>Random Forest</li>
+<li>Nearest Neighbour</li>
+<li>K-Means Clustering</li>
 <li>Principal Component Analysis (PCA)</li>
 <li>Gradient Boosting</li>
 <li>AdaBoost</li>
