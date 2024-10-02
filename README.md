@@ -10,6 +10,7 @@
 <li>Support Vector Machine</li>
 <li>Decision Tree</li>
 <li>Random Forest</li>
+<li>Neural Network</li>
 
 <li>Principal Component Analysis (PCA)</li>
 <li>Gradient Boosting</li>
