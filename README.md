@@ -11,6 +11,7 @@
 <li>Decision Tree</li>
 <li>Random Forest</li>
 <li>Neural Network</li>
+<li>Nearest Neighbour</li>
 
 <li>Gradient Boosting</li>
 <li>AdaBoost</li>
