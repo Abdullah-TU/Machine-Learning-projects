@@ -6,6 +6,7 @@
 
 <ul>
 <li>Logistic Regression</li>
+<li>Naïve Bayes</li>    
 
 <li>Principal Component Analysis (PCA)</li>
 <li>Gradient Boosting</li>
