@@ -5,6 +5,7 @@
 ## Classification Problems:
 
 <ul>
+<li>Logistic Regression</li>
 
 <li>Principal Component Analysis (PCA)</li>
 <li>Gradient Boosting</li>
