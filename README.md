@@ -7,6 +7,7 @@
 <ul>
 <li>Logistic Regression</li>
 <li>Naïve Bayes</li>    
+<li>Support Vector Machine</li>
 
 <li>K-Means Clustering</li>
 <li>Principal Component Analysis (PCA)</li>
